@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/e300.mk
+    $(LOCAL_DIR)/e300.mk \
+    $(LOCAL_DIR)/e260.mk
